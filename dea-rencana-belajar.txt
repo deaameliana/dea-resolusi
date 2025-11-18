@@ -2,5 +2,6 @@ RENCANA BELAJAR
 -Memahami materi tentang python
 *Belajar di w3scholl
 -Mencoba belajar dengan VSCode
+*Membuat codingan yang mudah di pahami
 -Memahami alur codingan
 -Mengerti
