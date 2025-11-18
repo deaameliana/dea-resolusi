@@ -1,0 +1,6 @@
+RENCANA BELAJAR
+-Memahami materi tentang python
+*Belajar di w3scholl
+-Mencoba belajar dengan VSCode
+-Memahami alur codingan
+-Mengerti
