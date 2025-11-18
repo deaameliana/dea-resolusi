@@ -1,0 +1,5 @@
+RENCANA BELAJAR
+-Memahami materi tentang python
+-Mencoba belajar dengan VSCode
+-Memahami alur codingan
+-Mengerti
